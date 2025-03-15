@@ -1,6 +1,6 @@
 # EPFO Data Extractor Script
 
-![Application Screenshot](application_screenshot.png)  <!-- Replace application_screenshot.png with your actual image file name -->
+![Application Screenshot](Capture.PNG)  <!-- Replace application_screenshot.png with your actual image file name -->
 
 ## Description
 
